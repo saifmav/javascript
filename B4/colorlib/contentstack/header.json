@@ -1,0 +1,99 @@
+{
+  "entries": [
+    {
+      "locale": "en-us",
+      "title": "Summit 2019",
+      "header": {
+        "logo_info": {
+          "logo_img": {
+            "uid": "blte722c01645f1de67",
+            "created_at": "2019-10-03T06:40:41.682Z",
+            "updated_at": "2019-10-03T06:40:41.682Z",
+            "created_by": "blt810a65e1937fdbb5",
+            "updated_by": "blt810a65e1937fdbb5",
+            "content_type": "image/png",
+            "file_size": "2371",
+            "tags": [],
+            "filename": "logo.png",
+            "url": "https://images.contentstack.io/v3/assets/blt8e85ea1bfd69986a/blte722c01645f1de67/5d9597e90767ca0e800ade6e/logo.png",
+            "ACL": {},
+            "is_dir": false,
+            "_version": 1,
+            "title": "logo.png",
+            "publish_details": {
+              "environment": "blt6484fea84202ff09",
+              "locale": "en-us",
+              "time": "2019-10-03T08:47:09.401Z",
+              "user": "blt810a65e1937fdbb5"
+            }
+          },
+          "logo_link": "/"
+        },
+        "navbar": {
+          "menu": [
+            {
+              "title": "HOME",
+              "title_link": "/home"
+            },
+            {
+              "title": "SPEAKER",
+              "title_link": "/speaker"
+            },
+            {
+              "title": "BLOG",
+              "title_link": "/blog"
+            },
+            {
+              "title": "TICKET",
+              "title_link": "/ticket"
+            },
+            {
+              "title": "CONTACT",
+              "title_link": "/contact"
+            }
+          ],
+          "social_icon": [
+            {
+              "social_icon": "pinterest",
+              "single_line": "/ class pinterest"
+            },
+            {
+              "social_icon": "facebook",
+              "single_line": "/ class facebook"
+            },
+            {
+              "social_icon": "twitter",
+              "single_line": "/ class twitter"
+            },
+            {
+              "social_icon": "behance",
+              "single_line": "/class behance"
+            },
+            {
+              "social_icon": "dribbble",
+              "single_line": "/ class dribbble"
+            },
+            {
+              "social_icon": "search",
+              "single_line": "/class search"
+            }
+          ]
+        }
+      },
+      "tags": [],
+      "uid": "blt9c201402504bac2f",
+      "created_by": "blt810a65e1937fdbb5",
+      "updated_by": "blt810a65e1937fdbb5",
+      "created_at": "2019-10-03T07:02:51.333Z",
+      "updated_at": "2019-10-03T07:30:48.297Z",
+      "ACL": {},
+      "_version": 5,
+      "publish_details": {
+        "environment": "blt6484fea84202ff09",
+        "locale": "en-us",
+        "time": "2019-10-03T10:18:06.489Z",
+        "user": "blt810a65e1937fdbb5"
+      }
+    }
+  ]
+}

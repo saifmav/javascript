@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>{{entry.title}}</title>
+  <link type="text/css" rel="stylesheet" href="/static/css/index.css">
+  <script type="text/javascript" src="/static/js/script.js"></script>
+  <script type="text/javascript" src="/static/js/jqery_carsol.js"></script>
+</head>
+<body>
+  {% include "partials/header.html" %}
+
+  {% block content %}{% endblock %}
+
+  {% include "partials/footer.html" %}
+</body>
+</html>

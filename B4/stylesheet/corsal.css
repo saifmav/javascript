@@ -1,0 +1,13 @@
+.carousel-inner img {
+    width: 100%;
+       height: 400px;
+     } 
+   .carousal_data{
+       position: absolute;
+       right: 10px;
+       top: 20%;
+       color: beige;
+   }
+   .data{
+       position: relative;
+   }

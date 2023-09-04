@@ -1,0 +1,130 @@
+[ 
+   { 
+      "_data":{ 
+         "locale":"en-us",
+         "_version":32,
+         "bannner":{ 
+            "sliders":[ 
+               { 
+                  "single_line":"Slider_01",
+                  "banner_img":{ 
+                     "uid":"blt4677be129e334475",
+                     "created_at":"2019-10-14T08:44:57.511Z",
+                     "updated_at":"2019-10-14T08:44:57.511Z",
+                     "created_by":"blt810a65e1937fdbb5",
+                     "updated_by":"blt810a65e1937fdbb5",
+                     "content_type":"image/jpeg",
+                     "file_size":"154015",
+                     "tags":[ 
+
+                     ],
+                     "filename":"bg-1.jpg",
+                     "url":"https://images.contentstack.io/v3/assets/blt8e85ea1bfd69986a/blt4677be129e334475/5da435898854f368b9b0ac32/bg-1.jpg",
+                     "is_dir":false,
+                     "_version":1,
+                     "title":"bg-1.jpg",
+                     "_internal_url":"/assets/blt4677be129e334475/bg-1.jpg"
+                  },
+                  "event_date":"<p> September<sup>TH</sup>-25<sup>TH</sup>      '2019'</p>",
+                  "event_title":"<p>SUMMIT<br>CONFERRENCE<br>2019</p>",
+                  "event_location":"World Trade Center, Gibraltar"
+               },
+               { 
+                  "single_line":"Slider_02",
+                  "banner_img":{ 
+                     "uid":"blt3b3a47d37da1bab1",
+                     "created_at":"2019-10-14T08:59:59.253Z",
+                     "updated_at":"2019-10-14T08:59:59.253Z",
+                     "created_by":"blt810a65e1937fdbb5",
+                     "updated_by":"blt810a65e1937fdbb5",
+                     "content_type":"image/jpeg",
+                     "file_size":"152203",
+                     "tags":[ 
+
+                     ],
+                     "filename":"bg-2.jpg",
+                     "url":"https://images.contentstack.io/v3/assets/blt8e85ea1bfd69986a/blt3b3a47d37da1bab1/5da4390f1a18ec672d9bb765/bg-2.jpg",
+                     "is_dir":false,
+                     "_version":1,
+                     "title":"bg-2.jpg",
+                     "_internal_url":"/assets/blt3b3a47d37da1bab1/bg-2.jpg"
+                  },
+                  "event_date":"<p> September<sup>TH</sup>-25<sup>TH</sup>      '2019'</p>",
+                  "event_title":"SUMMIT<br>CONFERRENCE<br>2019",
+                  "event_location":"World Trade Center, Gibraltar"
+               },
+               { 
+                  "single_line":"Slider_03",
+                  "banner_img":{ 
+                     "uid":"blt878a36ab2fedb730",
+                     "created_at":"2019-10-14T09:02:14.583Z",
+                     "updated_at":"2019-10-14T09:02:14.583Z",
+                     "created_by":"blt810a65e1937fdbb5",
+                     "updated_by":"blt810a65e1937fdbb5",
+                     "content_type":"image/jpeg",
+                     "file_size":"154603",
+                     "tags":[ 
+
+                     ],
+                     "filename":"bg-3.jpg",
+                     "url":"https://images.contentstack.io/v3/assets/blt8e85ea1bfd69986a/blt878a36ab2fedb730/5da4399660f95363732878eb/bg-3.jpg",
+                     "is_dir":false,
+                     "_version":1,
+                     "title":"bg-3.jpg",
+                     "_internal_url":"/assets/blt878a36ab2fedb730/bg-3.jpg"
+                  },
+                  "event_date":"<p> September<sup>TH</sup>-25<sup>TH</sup>      '2019'</p>",
+                  "event_title":"SUMMIT<br>CONFERRENCE<br>2019",
+                  "event_location":"World Trade Center, Gibraltar"
+               },
+               { 
+                  "single_line":"Slider_04",
+                  "banner_img":{ 
+                     "uid":"blt449b8d236f7b4b83",
+                     "created_at":"2019-10-14T09:05:10.190Z",
+                     "updated_at":"2019-10-14T09:05:10.190Z",
+                     "created_by":"blt810a65e1937fdbb5",
+                     "updated_by":"blt810a65e1937fdbb5",
+                     "content_type":"image/jpeg",
+                     "file_size":"151655",
+                     "tags":[ 
+
+                     ],
+                     "filename":"bg-4.jpg",
+                     "url":"https://images.contentstack.io/v3/assets/blt8e85ea1bfd69986a/blt449b8d236f7b4b83/5da43a461a18ec672d9bb76b/bg-4.jpg",
+                     "is_dir":false,
+                     "_version":1,
+                     "title":"bg-4.jpg",
+                     "_internal_url":"/assets/blt449b8d236f7b4b83/bg-4.jpg"
+                  },
+                  "event_date":"<p> September<sup>TH</sup>-25<sup>TH</sup>      '2019'</p>",
+                  "event_title":"SUMMIT<br>CONFERRENCE<br>2019",
+                  "event_location":"World Trade Center, Gibraltar"
+               }
+            ]
+         },
+         "created_at":"2019-10-03T10:43:15.421Z",
+         "created_by":"blt810a65e1937fdbb5",
+         "event_dates_and_times":{ 
+            "event_date":{ 
+               "update_title":"Next Event",
+               "update_date_and_time":"<p>September 25,2019  starting@9:00AM</p>"
+            },
+            "event_countdown":{ 
+               "update_ountdown":"<ul class=\"f-bold\">\n<li class=\"list-item\"><span id=\"days\"></span>days</li>       <li class=\"list-item\"><span id=\"hours\"></span>Hours</li> <li class=\"list-item\"><span id=\"minutes\"></span>Minutes</li>\n<li class=\"list-item\"><span id=\"seconds\"></span>Seconds</li>\n</ul>"
+            }
+         },
+         "tags":[ 
+
+         ],
+         "title":"home page",
+         "uid":"blt86f59cdc5c49214d",
+         "updated_at":"2019-10-17T11:50:38.828Z",
+         "updated_by":"blt810a65e1937fdbb5",
+         "url":"/",
+         "published_at":"2019-10-17T11:50:59.087Z"
+      },
+      "_content_type_uid":"homepage",
+      "_uid":"blt86f59cdc5c49214d"
+   }
+]
